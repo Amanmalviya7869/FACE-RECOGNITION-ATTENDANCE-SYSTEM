@@ -13,7 +13,7 @@ ref=db.reference('Students')
 data={
 "321654": # in order to mark the attendace of the person, image name should be 321654.png same goes for all.
         {
-            "name":"ARHAN MANSOORI",
+            "name":"AMAN MALVIYA",
             "major": "robotics",
             "starting_year": 2017,
             "total_attendance": 6,
